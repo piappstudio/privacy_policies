@@ -16,14 +16,6 @@ Travel Assistance requires only the enablement of storage permission.
 
 The information that may be collected with the enablement of this permission is stored locally on the device and the developer has no access to that information.
 
-This permission can be revoked when it is not needed, this is privy to only devices running Android 6.0 upward. 
-
-
-Travel Assistance has some other capabilities, which are functions the software can remotely effect on its own. They include;
-
-- **have full network access**: The app is capable of creating network sockets and can use customized network protocols. This capability does not require the software to send data to the internet.
-- **use fingerprint hardware**: This is the capability of the app to use your fingerprint hardware for authentication
-
 ---
 
 ## Types of Data Collected
