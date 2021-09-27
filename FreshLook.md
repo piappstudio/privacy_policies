@@ -33,7 +33,11 @@ Fresh Look does collect only the mobile number and user's first & last name for 
 
 ### Usage Data
 
-Fresh Look uses this data to provide the schedule the beauty parlour services and may send the reminder notice through the notification or Fresh Look help desk contact the user by phone to remind their scheduling
+Fresh Look uses this data to identify the beauty parlour user and their upcoming schedules for the salon services. We may send the reminder notice through the notification or Fresh Look help desk contact the user by phone to remind their scheduling. Otherwise, we are not selling these data 
+
+### Who do we share your data with?
+
+We do not share your information with third parties, except where we need to in order to provide the service (e.g., SMS service providers) or if we are instructed to by a court, authority or compelled by law. We use these third party services solely to process or store your information for the purposes described in this Privacy Policy . Any third party with whom we share user data is required to provide the same or equal protection of user data as stated in this Privacy Policy
 
 ---
 
@@ -64,4 +68,4 @@ Fresh Look reserves the right to make modifications to the policy statement at a
       
 ## Contact 
 
-For further inquiries, regarding this privacy policy, you can contact the developer via email. Send an email to piappstudio@gmail.com
+For further inquiries, regarding this privacy policy, you can contact the developer via email to piappstudio@gmail.com or contact the helpdesk through freshlookdesk@gmail.com
