@@ -1,4 +1,4 @@
-# FreshLook Privacy policy
+# Fresh Look Privacy policy
 
 ## Summary
 
