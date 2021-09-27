@@ -21,7 +21,7 @@ For better and enhanced utilization, the software is designed to request provisi
   
 Fresh Look android app requires the mobile number verification only at Indian users
 
-The informations are stored in Google's firebase, so please refer this [https://firebase.google.com/support/privacy] for data security 
+The informations are stored in Google's firebase, so please refer this https://firebase.google.com/support/privacy for more details 
 
 ---
 
@@ -39,7 +39,8 @@ Fresh Look uses this data to provide the schedule the beauty parlour services an
 
 ## Security Of Data
 
-The collected informations are stored in Google firebase platform. So, please refer [https://firebase.google.com/support/privacy] for data security and addtional privacy policy
+The collected informations are stored in Google firebase platform. So, please refer https://firebase.google.com/support/privacy for data security and addtional privacy policy
+
 ---
 
 
