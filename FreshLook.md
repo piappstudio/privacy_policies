@@ -39,7 +39,7 @@ Fresh Look uses this data to identify the beauty parlour user and their upcoming
 
 We do not share your information with third parties, except where we need to in order to provide the service (e.g., SMS service providers) or if we are instructed to by a court, authority or compelled by law. We use these third party services solely to process or store your information for the purposes described in this Privacy Policy . Any third party with whom we share user data is required to provide the same or equal protection of user data as stated in this Privacy Policy
 
-### How to delete my logged in detail?
+### How to delete my account?
 
 Compose an email to piappstudio@gmail.com, including your currently logged-in mobile number, and we will proceed to delete your data within 30 days upon receiving your request
 
