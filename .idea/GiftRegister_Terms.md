@@ -1,4 +1,4 @@
-Terms of Service
+## Terms of Service
 
 1. Acceptance of Terms By accessing and using GiftRegister, you agree to comply with and be bound by these Terms of Service. If you do not agree to these terms, please do not use the application.
 
