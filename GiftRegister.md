@@ -61,6 +61,14 @@ The developer reserves the right to make modifications to the policy statement a
 
 ---
 
+## Google Authentication
+To use our app, you may be required to authenticate using your Google account. The OAuth authentication process allows us to verify your identity and ensure secure access to your Google Drive.
+
+### Data Access and Use
+Upon successful authentication, our app may upload files to your Google Drive as part of its functionality. The app only interacts with Google Drive to manage and upload files as specified by the app's features. We do not store or use your authentication details beyond what is necessary for accessing Google Drive.
+
+---
+
 ## Contact
 
 For further inquiries, regarding this privacy policy, you can contact the developer via email. Send an email to piappstudio@gmail.com
